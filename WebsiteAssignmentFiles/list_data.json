@@ -1,25 +1,25 @@
 {
   "Cities I've been to": [
     {
-      "Title": "Haifa",
+      "City": "Haifa",
       "Country": "Israel",
       "Period": "1 month",
       "Year": "2017"
     },
     {
-      "Title": "Vancouver",
+      "City": "Vancouver",
       "Country": "Canada",
       "Period": "1 month",
       "Year": "2016"
     },
     {
-      "Title": "Manila",
+      "City": "Manila",
       "Country": "Philippines",
       "Period": "3 months",
       "Year": "2020"
     },
     {
-      "Title": "Berkeley",
+      "City": "Berkeley",
       "Country": "Unitied States",
       "Period": "3 months",
       "Year": "2024"
