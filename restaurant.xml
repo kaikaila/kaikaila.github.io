@@ -1,5 +1,5 @@
-<!DOCTYPE restaurants SYSTEM "restaurants.dtd"> 
-  <restaurants>
+<!DOCTYPE root SYSTEM "restaurant.dtd">
+  <root>
     <restaurant>
       <id>0</id>
       <name>Kabana</name>
@@ -24,4 +24,4 @@
       <open>9am</open>
       <close>3pm</close>
     </restaurant>
-  </restaurants>
+  </root>
